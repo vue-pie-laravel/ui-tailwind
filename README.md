@@ -1,4 +1,6 @@
-# Tailwind UI
+# Tailwind UI (NOT Released)
+
+This repository is currently in development, not ready for use!
 
 > Please ensure you have first followed the instructions from the [Core Repository](https://github.com/laracli/core)
 
