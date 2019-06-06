@@ -6,7 +6,7 @@ This repository is currently in development, not ready for use!
 
 # Installation
 
-[Download](https://github.com/laracli/ui-tailwind/archive/master.zip) and upack this UI source into the root of your Laravel project.
+[Download](https://github.com/laracli/ui-tailwind/archive/master.zip) and upack this UI source into the root of your Laravel project, some files will be overwritten such as `package.json`.
 
 Then using a terminal window in the root of your project run `yarn install`.
 
