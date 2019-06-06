@@ -10,4 +10,4 @@ This repository is currently in development, not ready for use!
 
 Then using a terminal window in the root of your project run `yarn install`.
 
-Finally in a terminal window from any location run `vue ui` to launch the [CLI Service[(https://cli.vuejs.org/guide/cli-service.html#cli-service) and use the web interface to import your new project, then run `serve` from the tool.
+Finally in a terminal window from any location run `vue ui` to launch the [CLI Service](https://cli.vuejs.org/guide/cli-service.html#cli-service) and use the web interface to import your new project, then run `serve` from the tool.
