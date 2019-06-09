@@ -22,7 +22,7 @@ If you just want to know how to tconfigure TailwindCSS for your own project, the
 
 | Files | Hint |
 | - | - |
-| package.json | **Line** Post CSS Plugin entry; find `"tailwindcss"` |
+| package.json | **Line** - Post CSS Plugin entry; find `"tailwindcss"` |
 | tailwind.config.js | **File** |
 | src/scss/\_tailwind.scss | **File** |
 
