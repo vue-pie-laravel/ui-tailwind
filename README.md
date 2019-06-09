@@ -1,4 +1,4 @@
-# Tailwind CSS UI
+# UI - Tailwind CSS
 
 > You can use this repository to help you configure tailwind for your own project regardless of what back-end framework you work with.
 > This configuration is compatible with a [Vue CLI](https://cli.vuejs.org/) setup, see **Independent Usage** below in this readme doc.
